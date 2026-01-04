@@ -1,0 +1,7 @@
+@import '../../../style/variables.module.scss';
+
+.listButton{
+    &:hover {
+        background-color: #005893; 
+    }
+}

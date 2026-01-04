@@ -1,0 +1,19 @@
+.customAutocomplete {
+  .MuiAutocomplete-tag {
+    display: inline-flex;
+    max-width: calc(50% - 8px); // Adjusts for the desired width and spacing
+    box-sizing: border-box;
+  }
+
+  .MuiAutocomplete-listbox {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .MuiAutocomplete-chip {
+    display: inline-flex;
+    margin: 2px;
+    width: auto;
+  }
+}
+

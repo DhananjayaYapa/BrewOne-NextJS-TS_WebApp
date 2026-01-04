@@ -1,0 +1,13 @@
+{
+    "itemCode": "MRP_1",
+    "bomItems":[{
+      "code":"MRP_Child1",
+      "description":"string",
+      "basedQuantity": 1
+    },
+    {
+        "code":"MRP_Child2",
+        "description":"string",
+        "basedQuantity": 1
+      }]
+  }

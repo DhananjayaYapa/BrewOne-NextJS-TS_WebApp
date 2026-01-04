@@ -1,0 +1,49 @@
+{
+    "blendId": 157,
+    "blendSheetNo": "BS-28.5-2025",
+    "salesOrderId": 18,
+    "productItemCode": "ABFBBP0002",
+    "orderDate": "2025-04-24T00:00:00Z",
+    "startDate": "2025-04-24T00:00:00Z",
+    "dueDate": "2025-04-24T00:00:00Z",
+    "customerCode": "TDFA0009",
+    "blendItemId": 100,
+    "blendItemCode": "BL00271",
+    "blendItemType": "bopotStandard",
+    "blendItemDescription": "15368",
+    "plannedQuantity": 0.2,
+    "warehouseCode": "02",
+    "masterBlendSheetNo": "BS-28.0-2025",
+    "totalQuantity": 8,
+    "statusId": 1,
+    "remarks": null,
+    "createdBy": "vimukthi.ranaweera@acentura.com",
+    "createdAt": "2025-04-25 13:37:56",
+    "updatedBy": null,
+    "updatedAt": null,
+    "attachments": [],
+    "blendSheetItems": [
+        {
+            "blendSheetItemId": 386,
+            "code": "SL-BT-LOCAL",
+            "description": "Straightline Black Tea Local",
+            "basedQuantity": 4,
+            "lots": [
+                {
+                    "blendSheetItemLotId": 597,
+                    "fromWarehouseCode": "01",
+                    "batchId": "BX-154",
+                    "boxNo": "BX-154",
+                    "quantity": 10
+                }
+            ]
+        }
+    ],
+    "approval": null,
+    "blendBalance":[{
+        "warehouseCode": "string",
+        "batchId": "string",
+        "blendSheetNo": "string",
+        "quantity": 100
+      }]
+}
