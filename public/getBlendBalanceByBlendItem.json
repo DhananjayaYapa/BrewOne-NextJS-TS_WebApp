@@ -1,0 +1,26 @@
+{
+    "blendItemCode": "string",
+    "warehouses": [{
+      "warehouseCode": "w1",
+      "masterBlendSheets": [{
+        "masterBlendSheetNo": "mbs1",
+        "quantity": 1,
+        "batchId": "jiji"
+      },
+      {
+        "masterBlendSheetNo": "mbs2",
+        "quantity": 2,
+        "batchId": "jiji"
+
+      }]
+    },
+    {
+        "warehouseCode": "w2",
+        "masterBlendSheets": [{
+          "masterBlendSheetNo": "mbs3",
+          "quantity": 2,
+        "batchId": "jiji"
+
+        }]
+      }]
+}

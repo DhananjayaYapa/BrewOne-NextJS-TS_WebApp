@@ -1,0 +1,47 @@
+.combobox {
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  padding: 42px;
+}
+
+.middlebox{
+  width: 100%;
+  justify-content: center;
+}
+
+.fileUploadForm {
+  border: 1px dashed #2196f3;
+  // height: 172px;
+  border-radius: 12px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: space-between;
+}
+
+.fileUploadDetailForm {
+  // height: 88px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 16px;
+  justify-content: space-between;
+}
+
+.buttongrid {
+  width: 60%;
+  display: flex;
+  justify-content: flex-end;
+  gap: 15px;
+  padding-right: 42px;
+}
+
+.catalogueSerialNo{
+  width: 60%;
+  padding: 0px 42px 42px 42px;
+  display: none;
+  justify-content: flex-start;
+}

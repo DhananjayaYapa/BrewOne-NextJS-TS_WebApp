@@ -1,0 +1,45 @@
+[{
+    "itemCode": "MRP_Child1",
+    "warehouses":[{
+      "warehouseCode": "w1",
+      "lots":[{
+        "batchId": "batch1",
+        "quantity": 11
+      }]
+    },
+    {
+        "warehouseCode": "w2",
+        "lots":[{
+          "batchId": "batch1",
+          "quantity": 21
+        },
+        {
+            "batchId": "batch2",
+            "quantity": 22 
+          }
+        ]
+      }]
+  },
+  {
+    "itemCode": "MRP_Child2",
+    "warehouses":[{
+      "warehouseCode": "w3",
+      "lots":[{
+        "batchId": "batch4",
+        "quantity": 34
+      }]
+    },
+    {
+        "warehouseCode": "w4",
+        "lots":[{
+          "batchId": "batch4",
+          "quantity": 44
+        },
+        {
+            "batchId": "batch6",
+            "quantity": 46
+          }
+        ]
+      }]
+  }
+]

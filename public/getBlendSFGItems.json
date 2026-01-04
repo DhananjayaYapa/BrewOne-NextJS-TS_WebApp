@@ -1,0 +1,35 @@
+[
+    {
+    "itemCode": "GFL1023",
+    "itemDescription": "Premium Green Tea Leaves",
+    "warehouseCode": "WH-001",
+    "warehouseName": "Colombo Main Warehouse",
+    "blendSheetNo": "BS-2025-001",
+    "batchId": "BATCH-789",
+    "quantity": 250,
+    "price": 1250.75,
+    "averageWeight": 0.5
+  },
+  {
+    "itemCode": "GFL2045",
+    "itemDescription": "Black Tea Dust",
+    "warehouseCode": "WH-002",
+    "warehouseName": "Kandy Storage Facility",
+    "blendSheetNo": "BS-2025-002",
+    "batchId": "BATCH-456",
+    "quantity": 180,
+    "price": 980.5,
+    "averageWeight": 0.4
+  },
+  {
+    "itemCode": "GFL3099",
+    "itemDescription": "Ceylon Tea Blend",
+    "warehouseCode": "WH-003",
+    "warehouseName": "Galle Regional Depot",
+    "blendSheetNo": "BS-2025-003",
+    "batchId": "BATCH-112",
+    "quantity": 300,
+    "price": 1475.9,
+    "averageWeight": 0.6
+  }
+]
