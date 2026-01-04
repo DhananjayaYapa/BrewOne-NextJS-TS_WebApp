@@ -1,0 +1,48 @@
+[
+    {
+      "userRole": "ADMIN",
+      "features": [
+        {
+            "featureId": 1,
+            "featureKey": "FE-001",
+            "featureName": "VIEW_DASHBOARD",
+            "isApprovalRequired": false
+        },
+        {
+          "featureId": 6,
+          "featureKey": "FE-027",
+          "featureName": "APPROVE_BLEND_SHEET",
+          "isApprovalRequired": false
+      },
+        {
+          "featureId": 2,
+          "featureKey": "FE-002",
+          "featureName": "UPLOAD_CATALOGUE",
+          "isApprovalRequired": false
+        },
+        {
+          "featureId": 2,
+          "featureKey": "FE-022",
+          "featureName": "CREATE_BLEND",
+          "isApprovalRequired": false
+        },
+        {
+          "featureId": 2,
+          "featureKey": "FE-024",
+          "featureName": "VIEW_BLEND",
+          "isApprovalRequired": false
+        }
+      ]
+    },
+    {
+        "userRole": "TEA_MASTER",
+        "features": [
+          {
+            "featureId": 1,
+            "featureKey": "FE-001",
+            "featureName": "VIEW_DASHBOARD",
+            "isApprovalRequired": false
+          }
+        ]
+      }
+]

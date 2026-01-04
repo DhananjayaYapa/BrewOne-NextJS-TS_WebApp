@@ -1,0 +1,111 @@
+{
+    "blendId": 264,
+    "blendSheetNo": "BS-54.1-2025",
+    "salesOrderId": 49,
+    "productItemCode": "ABFBBP0002",
+    "orderDate": "2025-10-10T00:00:00Z",
+    "startDate": "2025-10-10T00:00:00Z",
+    "dueDate": "2025-10-14T00:00:00Z",
+    "customerCode": "TDFA0009",
+    "blendItemId": 156,
+    "blendItemCode": "BL00271",
+    "blendItemType": "bopotStandard",
+    "blendItemDescription": "15368",
+    "quantity": 40,
+    "plannedQuantity": 40,
+    "totalQuantity": 40,
+    "warehouseCode": "02",
+    "masterBlendSheetNo": "BS-54.0-2025",
+    "salesContractQuantity": 10,
+    "statusId": 1,
+    "remarks": null,
+    "createdBy": "thilini.silva@acentura.com",
+    "createdAt": "2025-10-10 10:54:06",
+    "updatedBy": "thilini.silva@acentura.com",
+    "updatedAt": "2025-10-10 11:00:16",
+    "attachments": [],
+    "blendBalance": [],
+    "blendItems": [
+        {
+            "batchId": "BX-101",
+            "blendSheetNo": "BS-2025-01",
+            "price": 2.5,
+            "quantity": 20,
+            "warehouseCode": "WH-001",
+            "averageWeight": 20
+        },
+        {
+            "batchId": "BX-102",
+            "blendSheetNo": "BS-2025-02",
+            "price": 3.25,
+            "quantity": 10,
+            "warehouseCode": "WH-002",
+            "averageWeight": 18
+        },
+        {
+            "batchId": "BX-103",
+            "blendSheetNo": "BS-2025-03",
+            "price": 2.9,
+            "quantity": 50,
+            "warehouseCode": "WH-003",
+            "averageWeight": 22
+        },
+        {
+            "batchId": "BX-104",
+            "blendSheetNo": "BS-2025-04",
+            "price": 9.75,
+            "quantity": 5,
+            "warehouseCode": "WH-004",
+            "averageWeight": 19
+        },
+        {
+            "batchId": "BX-105",
+            "blendSheetNo": "BS-2025-05",
+            "price": 3.1,
+            "quantity": 10,
+            "warehouseCode": "WH-005",
+            "averageWeight": 21
+        },
+        {
+            "batchId": "BX-106",
+            "blendSheetNo": "BS-2025-09",
+            "price": 3.1,
+            "quantity": 10,
+            "warehouseCode": "WH-005",
+            "averageWeight": 21
+        }
+    ],
+    "blendSheetItems": [
+        {
+            "blendSheetItemId": 804,
+            "code": "SL-BT-LOCAL",
+            "description": "Straightline Black Tea Local",
+            "basedQuantity": 4,
+            "lots": [
+                {
+                    "blendSheetItemLotId": 1099,
+                    "fromWarehouseCode": "01",
+                    "batchId": "BX-227",
+                    "boxNo": "BX-227",
+                    "quantity": 160,
+                    "price": 100,
+                    "weightPerBag": 58
+                }
+            ]
+        }
+    ],
+    "otherBlendItems": [
+        {
+            "code":"GFL0889",
+            "description":"Cardamon Flavour Liquid (P0643459) - Ceyoka",
+            "lots": [{
+                "warehouseCode": "WH-001",
+                "batchId": "BX-12",
+                "quantity": 30,
+                "price": 20.5,
+                "weightPerBag": 10
+            }]
+        }
+    ],
+    "approval": null
+}

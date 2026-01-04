@@ -1,0 +1,52 @@
+[
+    {
+        "itemCode": "GFL0889",
+        "lots": [
+            {
+                "batchId": "BX-12",
+                "warehouseCode": "WH-001",
+                "quantity": 1000,
+                "price": 20.5,
+                "weightPerBag": 10
+            },
+            {
+                "batchId": "BX-13",
+                "warehouseCode": "WH-002",
+                "quantity": 1003,
+                "price": 30.5,
+                "weightPerBag": 20
+            }
+        ]
+    },
+    {
+        "itemCode": "I-GE-CM-FP-CM-02",
+        "lots": [
+            {
+                "batchId": "BX-15",
+                "warehouseCode": "WH-001",
+                "quantity": 500,
+                "price": 32.1,
+                "weightPerBag": 18
+            }
+        ]
+    },
+    {
+        "itemCode": "GFL0890",
+        "lots": [
+            {
+                "batchId": "BX-16",
+                "warehouseCode": "WH-003",
+                "quantity": 1200,
+                "price": 29.9,
+                "weightPerBag": 22
+            },
+            {
+                "batchId": "BX-17",
+                "warehouseCode": "WH-004",
+                "quantity": 890,
+                "price": 31.0,
+                "weightPerBag": 20
+            }
+        ]
+    }
+]

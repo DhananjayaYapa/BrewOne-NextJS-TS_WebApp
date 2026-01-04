@@ -1,0 +1,42 @@
+
+{
+    "currentPage": 1,
+    "totalPages": 1,
+    "totalCount": 4,
+    "data": [
+        {
+            "salesOrderId": 376,
+            "orderDate": "2024-02-14T00:00:00Z",
+            "startDate": "2024-02-14T00:00:00Z",
+            "dueDate": "2024-02-15T00:00:00Z",
+            "customerCode": "string",
+            "productItems": [{
+                "productItemCode": "p1"
+            },{
+                
+                "productItemCode": "p2"
+            }]
+        },
+        {
+            "salesOrderId": 2,
+            "orderDate": "2024-02-10T00:00:00Z",
+            "startDate": "2024-02-10T00:00:00Z",
+            "dueDate": "2024-02-12T00:00:00Z",
+            "customerCode": "string",
+            "productItems": [{
+                "productItemCode": "p2"
+            }]
+        },
+        {
+            "salesOrderId": 3,
+            "orderDate": "2024-02-10T00:00:00Z",
+            "startDate": "2024-02-10T00:00:00Z",
+            "dueDate": "2024-02-12T00:00:00Z",
+            "customerCode": "string",
+            "productItems": [{
+                "productItemCode": "p3"
+            }]
+        }    
+    ]
+    
+  }

@@ -1,0 +1,18 @@
+{
+  "salesOrderId": 1,
+  "productItemCode": "p1",
+  "blendItems":[{
+    "type":"string",
+    "code":"B1",
+    "description":"string",
+    "plannedQuantity": 1,
+    "warehouseCode": "warehouse1"
+  },
+  {
+    "type":"string",
+    "code":"B2",
+    "description":"string",
+    "plannedQuantity": 1,
+    "warehouseCode": "warehouse1"
+  }]
+}
